@@ -1,0 +1,29 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.nyc_output/
+coverage/
+.DS_Store
+.env
+.idea/
+.vscode/
+
+# Editor-specific files
+*.sublime-project
+*.sublime-workspace
+
+# Build artifacts
+dist/
+build/
+
+# Logs
+logs/
+*.log
+
+# Optional: if using specific frameworks/tools
+# .next/ (for Next.js)
+# .nuxt/ (for Nuxt.js)
+# out/ (for static site generation)
+
